@@ -1,0 +1,40 @@
+{
+  "Networking": [
+    "ethernet",
+    "vlan",
+    "switch",
+    "plug and play",
+    "pnp",
+    "cisco"
+  ],
+  "Capstone / School": [
+    "capstone",
+    "homework",
+    "assignment",
+    "exam",
+    "quiz",
+    "codepath"
+  ],
+  "Homelab": [
+    "homelab",
+    "proxmox",
+    "raspberry pi",
+    "rpi",
+    "pi 5"
+  ],
+  "Documentation": [
+    "documentation",
+    "doc",
+    "writeup",
+    "report",
+    "notes"
+  ],
+  "Content / Social": [
+    "linkedin",
+    "medium",
+    "blog",
+    "post",
+    "article"
+  ],
+  "Uncategorized": []
+}
