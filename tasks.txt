@@ -1,0 +1,8 @@
+To-Do:
+- Terminate both ends of Greg Zullos Ethernet Cable, per Tony.
+- Capstone for CodePath
+- Homelab LinkedIn/Medium Post
+- Cisco Plug and Play TAC Case
+- VLAN Changes documentation for CHE PioTech Center
+- Homelab Raspberry Pi Configs
+- Homelab Proxmox
