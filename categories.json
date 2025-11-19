@@ -1,40 +1,10 @@
 {
-  "Networking": [
-    "ethernet",
-    "vlan",
-    "switch",
-    "plug and play",
-    "pnp",
-    "cisco"
+  "Category1": [
+    "keyword1",
+    "keyword2",
   ],
-  "Capstone / School": [
-    "capstone",
-    "homework",
-    "assignment",
-    "exam",
-    "quiz",
-    "codepath"
+{
+  "Category2": [
+    "keyword1",
+    "keyword2",
   ],
-  "Homelab": [
-    "homelab",
-    "proxmox",
-    "raspberry pi",
-    "rpi",
-    "pi 5"
-  ],
-  "Documentation": [
-    "documentation",
-    "doc",
-    "writeup",
-    "report",
-    "notes"
-  ],
-  "Content / Social": [
-    "linkedin",
-    "medium",
-    "blog",
-    "post",
-    "article"
-  ],
-  "Uncategorized": []
-}
