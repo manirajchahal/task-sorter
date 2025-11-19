@@ -24,8 +24,8 @@ Clone the repository:
 
 
 ```
-git clone https://github.com/manirajchahal/task-organizer.git
-cd task-organizer
+git clone https://github.com/manirajchahal/task-sorter.git
+cd task-sorter
 ```
 
 **OR**
