@@ -28,6 +28,14 @@ https://github.com/manirajchahal/task-organizer.git
 cd task-organizer
 ```
 
+**OR**
+
+1. Click Code → Download ZIP
+
+2. Extract the folder
+
+3. Open categorize_tasks.py with Python (Using Powershell / CMD or Git Bash)
+
 📝 Usage
 --------
 
