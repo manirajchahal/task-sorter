@@ -22,9 +22,9 @@ Perfect for organizing messy thoughts into planned and ready-for-action tasks!
 
 Clone the repository:
 
-git clone <br>
+
 ```
-https://github.com/manirajchahal/task-organizer.git
+git clone https://github.com/manirajchahal/task-organizer.git
 cd task-organizer
 ```
 
