@@ -34,7 +34,7 @@ cd task-organizer
 
 2. Extract the folder
 
-3. Open categorize_tasks.py with Python (Using Powershell / CMD or Git Bash)
+3. Open `categorize_tasks.py` with Python (Using Powershell / CMD or Git Bash)
 
 
 🔧 Making the Script Automatable (Linux/macOS Only)
