@@ -21,12 +21,24 @@ def load_tasks():
     if not TASKS_FILE.exists():
         return []
 
+    bullet_chars = ["-", "*", "+", "•"]
+
     tasks = []
     with TASKS_FILE.open("r", encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
-            if line.startswith("- "):
-                tasks.append(line[2:].strip())  # strip "- "
+            stripped = line.strip()
+
+            # Skip empty
+            if not stripped:
+                continue
+
+            # Check if line starts with a bullet character
+            if stripped[0] in bullet_chars:
+                # Remove the bullet + any surrounding spaces
+                task = stripped[1:].strip()
+
+                if task:  # don't add empty strings
+                    tasks.append(task)
     return tasks
 
 
