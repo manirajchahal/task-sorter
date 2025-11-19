@@ -1,10 +1,10 @@
 {
   "Category1": [
     "keyword1",
-    "keyword2",
+    "keyword2"
   ],
-{
   "Category2": [
-    "keyword1",
-    "keyword2",
-  ],
+    "keyword3",
+    "keyword4"
+  ]
+}
