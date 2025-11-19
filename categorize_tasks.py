@@ -1,8 +1,11 @@
 import json
 from pathlib import Path
 
-TASKS_FILE = Path("tasks.txt")
-CATEGORIES_FILE = Path("categories.json")
+BASE_DIR = Path(__file__).parent
+
+TASKS_FILE = BASE_DIR / "tasks.txt"
+CATEGORIES_FILE = BASE_DIR / "categories.json"
+OUTPUT_FILE = BASE_DIR / "categorized_tasks.md"
 
 
 def load_categories():
