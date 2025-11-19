@@ -36,6 +36,20 @@ cd task-organizer
 
 3. Open categorize_tasks.py with Python (Using Powershell / CMD or Git Bash)
 
+
+🔧 Making the Script Automatable (Linux/macOS Only)
+---------------------------------------------------
+
+If you're on Linux or macOS, make the helper script executable:
+
+`chmod +x run_categorizer_unix.sh`
+
+Then run it:
+
+`./run_categorizer_unix.sh`
+
+This will allow `cron` to schedule automatic updates on the tasks.txt files so you don't have to continually run the Python script.
+
 📝 Usage
 --------
 
