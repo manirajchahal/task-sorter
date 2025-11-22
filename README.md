@@ -1,6 +1,6 @@
 📌 Task Auto-Categorizer
 ========================
-A lightweight, zero-friction tool that reads a plain tasks.txt file and automatically sorts your tasks into categories using simple keyword rules.
+A lightweight, zero-friction tool that reads a plain `tasks.txt` file and automatically sorts your tasks into categories using simple keyword rules.
 Perfect for organizing messy thoughts into planned and ready-for-action tasks!
 
 🚀 Features
